@@ -1,7 +1,7 @@
 # config.py
 import os
 
-BOT_TOKEN = "8744470090:AAEuzwhz90EoojYAVrOdip80DDf9WLtdDZ0"
+BOT_TOKEN = "8744470090:AAFbnmyxxxyNX8VmTXcAciQ1VRNIzObH5Zc"
 
 STORE_NAME = "ABHAY PANEL STORE"
 BOT_USERNAME = "Abhay_key_Shop_bot"
