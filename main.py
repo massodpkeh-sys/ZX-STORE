@@ -91,11 +91,12 @@ def main_menu_keyboard():
     return InlineKeyboardMarkup([
         [
             InlineKeyboardButton("🛒 Shop Key", callback_data="shop_home", style="success"),
-        ]
-        [,
+        ],
+        [
             InlineKeyboardButton("💰 Add Balance", callback_data="wallet_add", style="success"),
             InlineKeyboardButton("👤 My Profile", callback_data="my_profile", style="primary"),
         ],
+        [   
             InlineKeyboardButton("📜 My Orders", callback_data="my_orders", style="primary"),
             InlineKeyboardButton("▶️ Tutorial watch", callback_data="tutorial", style="primary"),
         ],
