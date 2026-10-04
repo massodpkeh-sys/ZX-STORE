@@ -1,0 +1,25 @@
+# config.py
+import os
+
+BOT_TOKEN = "8744470090:AAEuzwhz90EoojYAVrOdip80DDf9WLtdDZ0"
+
+STORE_NAME = "ABHAY PANEL STORE"
+BOT_USERNAME = "Abhay_key_Shop_bot"
+STORE_OWNER_ID = 8027086399
+
+MIN_DEPOSIT = 10
+MAX_DEPOSIT = 5000
+UPI_ID = "abhaykumar70@fam"
+
+FAMGATEWAY_BASE_URL = "https://famgateway.in"
+FAMGATEWAY_API_KEY = "fam_a0929e809a9f73fd5a7d51b781ccfd8fd2cfba24"
+
+SUPPLIER_BASE_URL = "https://bantibhaiya.to/api/reseller_v1.php"
+SUPPLIER_API_KEY = "3068ca695df7799d63a32baa32ec4a6c"
+SUPPLIER_MASTER_KEY = "a7f3e8b2c9d1f4a6b8c2d5e9f1a3b6c8"
+
+HTTP_TIMEOUT = 30
+HTTP_CONNECT_TIMEOUT = 10
+HTTP_RETRIES = 2
+
+DB_PATH = "store.db"
